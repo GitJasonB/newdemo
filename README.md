@@ -1,2 +1,2 @@
 # newdemo
-this is what I'd normally do
+this is the way I should be doing it
